@@ -1,0 +1,15 @@
+CHANNEL_ID,CHANNEL_NAME,CHANNEL_CATEGORY,PLATFORM_TYPE,REGION
+1,Facebook,Social,paid,APJ
+2,Google Ads,Search,paid,NAM
+3,Email,Email,organic,EMEA
+4,Instagram,Social,paid,APJ
+5,LinkedIn,Social,paid,NAM
+6,SEO,Search,organic,EMEA
+7,YouTube,Video,paid,APJ
+8,Twitter,Social,organic,NAM
+9,WhatsApp,Messaging,organic,APJ
+10,Pinterest,Social,paid,EMEA
+11,TikTok,Video,paid,APJ
+12,Snapchat,Social,paid,NAM
+13,Affiliate,Affiliate,paid,EMEA
+14,Push Notification,Messaging,organic,APJ
